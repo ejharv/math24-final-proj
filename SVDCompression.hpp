@@ -2,8 +2,8 @@
 #define SVD_COMPRESSION_H
 
 #include "Image.hpp"
-#include <Eigen/Dense>
-#include <Eigen/SVD>
+#include "eigen/Eigen/Dense"
+#include "eigen/Eigen/SVD"
 
 class SVDCompression {
 public:
